@@ -1,6 +1,6 @@
 RGB is a system of private & scalable client-validated smart contracts on Bitcoin & Lightning developed 
-by [LNP/BP Standards Association](https://lnp-bp.org). You can read more about GRGB on 
-[FAQ website](https://rgbfaq.com) and in [Technical Blueprint](https://rgb.network).
+by [LNP/BP Standards Association](https://lnp-bp.org). You can read more about RGB on 
+[FAQ website](https://rgbfaq.com) and in [Technical Blueprint](https://spec.rgb.tech).
 
 - Standards defining RGB are part of [LNPBP standards](https://github.com/LNP-BP/LNPBPs)
 - Reference implementation of consensus/validation code is [RGB Core Lib](/RGB-WG/rgb-core)
