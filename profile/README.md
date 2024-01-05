@@ -6,4 +6,4 @@ by [LNP/BP Standards Association](https://lnp-bp.org). You can read more about R
 - Reference implementation of consensus/validation code is [RGB Core Lib](https://github.com/RGB-WG/rgb-core)
 - High-level API to RGB contracts is provided by [RGB Standard Lib](https://github.com/RGB-WG/rgb-std)
 - To run RGB, you can use [RGB](https://github.com/RGB-WG/rgb) command-line tool. Alternatively, you can 
-  other existing software listed here: <https://rgb.tech/install/>.
+  find other existing software listed here: <https://rgb.tech/install/>.
